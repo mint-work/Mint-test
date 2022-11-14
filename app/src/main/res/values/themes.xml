@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Opencv" parent="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/seagreen1</item>
+        <item name="colorPrimaryVariant">@color/mediumseagreen1</item>
+        <item name="colorOnPrimary">@color/turquoise1</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/seagreen1</item>
+        <item name="colorSecondaryVariant">@color/mediumseagreen1</item>
+        <item name="colorOnSecondary">@color/turquoise1</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
